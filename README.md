@@ -39,3 +39,9 @@ We repeat the process for a different mean degree, generating random and truncat
 Finally, we adjust the layout with `plt.tight_layout()` and display the plots using `plt.show()`.
 
 This code demonstrates how to generate, visualize, and compare Poisson distributions with and without truncation using Python and relevant libraries.
+
+### Output
+
+<p align="center">
+  <img src="Poisson_Distributions_with_and_without_Truncation.png" alt="Poisson Distributions with and without Truncation">
+</p>
